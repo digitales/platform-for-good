@@ -1,2 +1,2 @@
-platfrom-for-good
+platform-for-good
 =================
